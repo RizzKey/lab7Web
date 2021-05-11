@@ -53,3 +53,19 @@ TI.19.A.2
 # LANGKAH 10
 # Perulangan DOWHILE
 ![image](https://user-images.githubusercontent.com/56240954/117765877-da0bba80-b258-11eb-8325-c7c1b740cd59.png)
+
+# TUGAS
+# Buatlah program PHP sederhana dengan menggunakan form input yang menampilkan nama, tanggal lahir dan pekerjaan. Kemudian tampilkan outputnya dengan menghitung umur berdasarkan inputan tanggal lahir. Dan pilihan pekerjaan dengan gaji yang berbeda-beda sesuai pilihan pekerjaan.
+![image](https://user-images.githubusercontent.com/56240954/117766058-2bb44500-b259-11eb-81fc-c881b1375ce5.png)
+![image](https://user-images.githubusercontent.com/56240954/117766085-37a00700-b259-11eb-9074-71dec42fc8bc.png)
+```
+Perbedaan metode POST dan GET
+* Metode GET akan menampilkan semua data dalam url (yang kemudian disebut sebagai query string).
+* Sedangkan POST akan menyimpan data di dalam body request tanpa menampilkannya secara lang
+
+sung di dalam URL.
+
+```
+OUTPUT
+![image](https://user-images.githubusercontent.com/56240954/117766203-674f0f00-b259-11eb-8ba6-ba8283f4d058.png)
+
